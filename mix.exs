@@ -41,7 +41,8 @@ defmodule AbsintheMetrics.Mixfile do
       licenses: ["MIT"],
       files: ["lib", "mix.exs", "README*", "LICENSE*"],
       maintainers: ["Fredrik Wärnsberg"],
-      links: %{"GitHub" => "https://github.com/soundtrackyourbrand/absinthe-metrics"}
+      links: %{"GitHub" => "https://github.com/soundtrackyourbrand/absinthe-metrics"},
+      organization: "hippware"
     ]
   end
 end
